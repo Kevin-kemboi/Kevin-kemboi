@@ -1,24 +1,31 @@
-👋 Hi, I’m Kevin Kemboi
-🚀 About Me
-I'm a Computer Science student passionate about building innovative tech solutions. I enjoy working on full-stack development, cloud computing, and AI integration while continuously exploring new technologies.
+<h1> Hello World! 🌍 </h1>
+About Me
+💻 I'm a Full-Stack Developer passionate about AI, Cloud Computing, and Scalable System Design. I love building efficient, secure, and high-performance web applications.
 
-👀 Interests
-Web & Software Development 💻
-Solution Architecture 🏗️
-Artificial Intelligence 🤖
-Open Source Contributions 🌍
-Problem-Solving & Competitive Coding ⚡
-🌱 Currently Learning
-Advanced Angular & TypeScript 🅰️
-Cloud Computing & DevOps ☁️
-System Design & Scalability 🏢
-💞️ Looking to Collaborate On
-Open-source projects 🌱
-Hackathons & coding competitions 🚀
-AI-driven applications 🤖
-📫 How to Reach Me
-📩 Email: kevinkemba3@gmail.com
+👯 I’m looking to collaborate on open-source projects & AI-driven applications.
 
+🔭 I’m currently working on full-stack projects using Angular, Node.js, and cloud-based architectures.
 
-⚡ Fun Fact
-I love football! ⚽ When I'm not coding, you’ll probably find me on the field or analyzing a match.
+🌱 My learning wish-list includes Generative AI, WebAssembly, and Distributed Systems.
+
+✔ Ask me anything tech-related—I'll be happy to help if it's in my domain! 😉
+
+📫 You can reach me at kevinkemba3@gmail.com
+
+⚡ Outside tech, I enjoy football & competitive coding.
+
+📜 Tech Stack:
+Languages & Frameworks:
+C | C++ | JavaScript (ES6+) | TypeScript | Python | HTML5 | CSS3 | Angular | React | Node.js | Express.js | FastAPI | Django
+
+Databases & Cloud:
+PostgreSQL | MongoDB | Firebase | Redis | MySQL | AWS | GCP | Docker | Kubernetes
+
+AI & Data Science:
+TensorFlow | PyTorch | OpenCV | NumPy | Pandas | Matplotlib | scikit-learn
+
+🔗 Contact Me
+LinkedIn | Email
+
+📊 GitHub Stats:
+🏆 GitHub Trophies (Coming Soon...)
